@@ -1,7 +1,7 @@
 
 # Melbourne Housing Snapshot
 
-This is my second Kaggle project, and it's aimed at teaching Machine Learning to beginners. If you're interested in this course, you can access it through this link.
+This is my second Kaggle project, and it's aimed at teaching Machine Learning to beginners. If you're interested in this course, you can access it through this link:[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 Instead of using the Iowa Housing data as per the course, I chose to work with Melbourne real estate data in Jupyter Notebook. I applied machine learning techniques to analyze Melbourne's real estate market. Following DanB's comprehensive guide, I gained proficiency in various machine learning concepts, such as DecisionTreeRegressor, mean_absolute_error, train_test_split, and RandomForestRegressor.
 
